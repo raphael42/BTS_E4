@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GSB - Android</string>
+
+    <string name="send">Envoyer</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="gmail">Voici vos contacts Gmail !</string>
+    <string name="github">Voici vos contacts Github !</string>
+
+    <string-array name="Test">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gsb_tittle">Galaxy Swiss Bourdin</string>
+    <string name="Devs_Team"></string>
+</resources>

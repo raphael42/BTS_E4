@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="GSB_ML">20mm</dimen>
+    <dimen name="txt_MargeT">68dp</dimen>
+    <dimen name="Devs_Teams_size">80dp</dimen>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_accueil"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.julien.bts_e4.accueil">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/GSB_ML"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:background="@drawable/gsb" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gsb_tittle"
+            android:layout_marginTop="@dimen/txt_MargeT"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:textSize="75px"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Devs_Team"
+            android:layout_marginBottom="@dimen/Devs_Teams_size"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true">
+        </TextView>
+
+
+
+
+    </RelativeLayout>
+
+</android.support.v4.widget.SwipeRefreshLayout>

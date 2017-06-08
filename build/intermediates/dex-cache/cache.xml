@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\7d22c9bafce2661001dbc2b05d493b3d5e9015c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d99d377a80aa77c210ca5b451f2af96819a0d2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\26d2fc5ab06f226ef18710734ed625ebda8929bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c996a33b69bdda613d019d288c6ec6362d90b91d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\26d2fc5ab06f226ef18710734ed625ebda8929bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_c996a33b69bdda613d019d288c6ec6362d90b91d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\901d055c18753591af200236b71e515577164525\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_298bb590068f52d1c7c0238321ec2c5feb1c2d6d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ef59978504e9d36a83048e52d60a333fcfed3e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\5b712f62a5c4c747698bb41dc87ff259a1efc4ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60d4bcc5c07977802862ecebda514e0ec97ab693\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\5b712f62a5c4c747698bb41dc87ff259a1efc4ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_60d4bcc5c07977802862ecebda514e0ec97ab693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\8e25144df900dedf9dac19b4bcfb7fddee38ba94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_84db8bf7850c5249c80b1c2273d07a0b041166a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\8e25144df900dedf9dac19b4bcfb7fddee38ba94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_84db8bf7850c5249c80b1c2273d07a0b041166a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\5b712f62a5c4c747698bb41dc87ff259a1efc4ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_60d4bcc5c07977802862ecebda514e0ec97ab693.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b333df975aafe556a3ed83e670fb5a2120e0c81c">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1e435b3f70daa36dd14243a2bccdc55755b5028e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\8e25144df900dedf9dac19b4bcfb7fddee38ba94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84db8bf7850c5249c80b1c2273d07a0b041166a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_b1ee151fc09dba0e7d3bea51270c04269bc70a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\4e6294856e0eaa2c5ceadb158d639993183cd1cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_fb4487ad1d65fd4bd2628a639437b577cca21c65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_b1ee151fc09dba0e7d3bea51270c04269bc70a1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\5b712f62a5c4c747698bb41dc87ff259a1efc4ef\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ae025b8882327854d8fc5392d64aac3351bd60cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\5b712f62a5c4c747698bb41dc87ff259a1efc4ef\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ae025b8882327854d8fc5392d64aac3351bd60cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\4e6294856e0eaa2c5ceadb158d639993183cd1cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb4487ad1d65fd4bd2628a639437b577cca21c65\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_b1ee151fc09dba0e7d3bea51270c04269bc70a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\5b712f62a5c4c747698bb41dc87ff259a1efc4ef\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ae025b8882327854d8fc5392d64aac3351bd60cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\901d055c18753591af200236b71e515577164525\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_298bb590068f52d1c7c0238321ec2c5feb1c2d6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\4e6294856e0eaa2c5ceadb158d639993183cd1cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_fb4487ad1d65fd4bd2628a639437b577cca21c65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\901d055c18753591af200236b71e515577164525\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_298bb590068f52d1c7c0238321ec2c5feb1c2d6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\7d22c9bafce2661001dbc2b05d493b3d5e9015c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_9d99d377a80aa77c210ca5b451f2af96819a0d2a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SuperUtil\.android\build-cache\2f25c9ffd0db6179198e0886e8b4fb68dfcbbcbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d836999c152d958ea122f966507ed2d80164acaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\26d2fc5ab06f226ef18710734ed625ebda8929bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_c996a33b69bdda613d019d288c6ec6362d90b91d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\2f25c9ffd0db6179198e0886e8b4fb68dfcbbcbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_d836999c152d958ea122f966507ed2d80164acaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\7d22c9bafce2661001dbc2b05d493b3d5e9015c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_9d99d377a80aa77c210ca5b451f2af96819a0d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SuperUtil\.android\build-cache\2f25c9ffd0db6179198e0886e8b4fb68dfcbbcbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\SuperUtil\AndroidStudioProjects\BTS_E4\app\build\intermediates\pre-dexed\debug\classes_d836999c152d958ea122f966507ed2d80164acaa.jar" />
+    </item>
+
+</items>
